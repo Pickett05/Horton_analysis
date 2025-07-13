@@ -1,0 +1,4 @@
+This network has been produced using status model. Please cite the relevant authors while using this network:
+Sonwane, N. D., Tandon, S., Braun, T., Marwan, N., Kurths, J., and Sujith, R. I. (2025). Universality in the self-similar hierarchical organization across multiple real-world systems and a model to explain the underlying mechanism. (put the necessary copyright details I have just put some dummy text)
+Input parameters:
+N=100, No=10, m=1, Status=['Gaussian', 0, 1]

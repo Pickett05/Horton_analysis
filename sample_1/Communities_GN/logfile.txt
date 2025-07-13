@@ -1,0 +1,140 @@
+Running commuity detection. Start time: 2025-04-16 02:39:08.394976 
+Level = 1 at time 2025-04-16 02:39:08.417555 
+Level = 2 at time 2025-04-16 02:39:08.421307 
+Level = 3 at time 2025-04-16 02:39:08.427457 
+Level = 4 at time 2025-04-16 02:39:08.431216 
+Level = 5 at time 2025-04-16 02:39:08.433942 
+Level = 6 at time 2025-04-16 02:39:08.438572 
+Level = 7 at time 2025-04-16 02:39:08.441242 
+Level = 8 at time 2025-04-16 02:39:08.444539 
+Level = 9 at time 2025-04-16 02:39:08.446557 
+Level = 10 at time 2025-04-16 02:39:08.449040 
+Level = 11 at time 2025-04-16 02:39:08.450276 
+Level = 12 at time 2025-04-16 02:39:08.453177 
+Level = 13 at time 2025-04-16 02:39:08.455033 
+Level = 14 at time 2025-04-16 02:39:08.456403 
+Level = 15 at time 2025-04-16 02:39:08.456403 
+Level = 16 at time 2025-04-16 02:39:08.456403 
+Level = 17 at time 2025-04-16 02:39:08.456403 
+Level = 18 at time 2025-04-16 02:39:08.464064 
+Level = 19 at time 2025-04-16 02:39:08.466657 
+Level = 20 at time 2025-04-16 02:39:08.468206 
+Level = 21 at time 2025-04-16 02:39:08.469434 
+Level = 22 at time 2025-04-16 02:39:08.469434 
+Level = 23 at time 2025-04-16 02:39:08.469434 
+Level = 24 at time 2025-04-16 02:39:08.469434 
+Level = 25 at time 2025-04-16 02:39:08.476241 
+Level = 26 at time 2025-04-16 02:39:08.477884 
+Level = 27 at time 2025-04-16 02:39:08.478933 
+Level = 28 at time 2025-04-16 02:39:08.480322 
+Level = 29 at time 2025-04-16 02:39:08.481790 
+Level = 30 at time 2025-04-16 02:39:08.483733 
+Level = 31 at time 2025-04-16 02:39:08.485885 
+Level = 32 at time 2025-04-16 02:39:08.487065 
+Level = 33 at time 2025-04-16 02:39:08.487065 
+Level = 34 at time 2025-04-16 02:39:08.490482 
+Level = 35 at time 2025-04-16 02:39:08.492057 
+Level = 36 at time 2025-04-16 02:39:08.493080 
+Level = 37 at time 2025-04-16 02:39:08.494765 
+Level = 38 at time 2025-04-16 02:39:08.494765 
+Level = 39 at time 2025-04-16 02:39:08.494765 
+Community detection done. End time: 2025-04-16 02:39:08.501896 
+Total time taken = 0:00:00.106920 
+
+Constructing data structure (dictionary) to save the communities detected. 
+Exiting the code. End time: 2025-04-16 02:39:08.590764 
+
+Constructing binary tree representation of the community structure. Start time: 2025-04-16 02:39:08.611503 
+----------------------------------------
+Done. 
+Exiting the code. End time: 2025-04-16 02:39:08.713812 
+Total time taken = 0:00:00.102309 
+ 
+
+Finding all the measures for community nodes. Start time: 2025-04-16 02:39:09.126699 
+Community:  0,0,0 
+Community: 38,27,0 
+Community: 38,27,1 
+Community: 39,38,0 
+Community: 39,38,1 
+Community: 37,34,0 
+Community: 37,34,1 
+Community: 36,17,0 
+Community: 36,17,1 
+Community: 35,22,0 
+Community: 35,22,1 
+Community: 34,26,0 
+Community: 34,26,1 
+Community: 33,1,0 
+Community: 33,1,1 
+Community: 32,26,0 
+Community: 32,26,1 
+Community: 31,7,0 
+Community: 31,7,1 
+Community: 30,3,0 
+Community: 30,3,1 
+Community: 29,4,0 
+Community: 29,4,1 
+Community: 28,19,0 
+Community: 28,19,1 
+Community: 27,7,0 
+Community: 27,7,1 
+Community: 26,13,0 
+Community: 26,13,1 
+Community: 25,15,0 
+Community: 25,15,1 
+Community: 24,23,0 
+Community: 24,23,1 
+Community: 23,19,0 
+Community: 23,19,1 
+Community: 22,11,0 
+Community: 22,11,1 
+Community: 21,5,0 
+Community: 21,5,1 
+Community: 20,6,0 
+Community: 20,6,1 
+Community: 19,10,0 
+Community: 19,10,1 
+Community: 18,2,0 
+Community: 18,2,1 
+Community: 17,0,0 
+Community: 17,0,1 
+Community: 16,13,0 
+Community: 16,13,1 
+Community: 15,4,0 
+Community: 15,4,1 
+Community: 14,9,0 
+Community: 14,9,1 
+Community: 13,4,0 
+Community: 13,4,1 
+Community: 12,2,0 
+Community: 12,2,1 
+Community: 11,9,0 
+Community: 11,9,1 
+Community: 10,7,0 
+Community: 10,7,1 
+Community: 9,5,0 
+Community: 9,5,1 
+Community: 8,0,0 
+Community: 8,0,1 
+Community: 7,2,0 
+Community: 7,2,1 
+Community: 6,5,0 
+Community: 6,5,1 
+Community: 5,0,0 
+Community: 5,0,1 
+Community: 4,2,0 
+Community: 4,2,1 
+Community: 3,0,0 
+Community: 3,0,1 
+Community: 2,1,0 
+Community: 2,1,1 
+Community: 1,0,0 
+Community: 1,0,1 
+Done. 
+
+Finding all the measures for branches in the tree. 
+Done. 
+Exiting the code. End time: 2025-04-16 02:39:09.425960 
+Total time taken = 0:00:00.299261 
+ 

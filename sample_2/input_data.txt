@@ -1,0 +1,7 @@
+Sample graph
+- Nodes: 9
+- Edges: 12
+- Directed: False
+- Weighted: False
+- Density: 0.3333333333333333
+- Size of the largest component: 9

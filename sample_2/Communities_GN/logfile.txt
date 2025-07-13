@@ -1,0 +1,47 @@
+Running commuity detection. Start time: 2025-04-16 02:28:51.459142 
+Level = 1 at time 2025-04-16 02:28:51.462152 
+Level = 2 at time 2025-04-16 02:28:51.462152 
+Level = 3 at time 2025-04-16 02:28:51.462152 
+Level = 4 at time 2025-04-16 02:28:51.462152 
+Level = 5 at time 2025-04-16 02:28:51.463656 
+Level = 6 at time 2025-04-16 02:28:51.463656 
+Level = 7 at time 2025-04-16 02:28:51.463656 
+Level = 8 at time 2025-04-16 02:28:51.464657 
+Community detection done. End time: 2025-04-16 02:28:51.465965 
+Total time taken = 0:00:00.006823 
+
+Constructing data structure (dictionary) to save the communities detected. 
+Exiting the code. End time: 2025-04-16 02:28:51.477101 
+
+Constructing binary tree representation of the community structure. Start time: 2025-04-16 02:28:51.485945 
+---------
+Done. 
+Exiting the code. End time: 2025-04-16 02:28:51.492370 
+Total time taken = 0:00:00.006425 
+ 
+
+Finding all the measures for community nodes. Start time: 2025-04-16 02:28:51.646684 
+Community:  0,0,0 
+Community: 7,5,0 
+Community: 7,5,1 
+Community: 8,6,0 
+Community: 8,6,1 
+Community: 6,2,0 
+Community: 6,2,1 
+Community: 5,1,0 
+Community: 5,1,1 
+Community: 4,0,0 
+Community: 4,0,1 
+Community: 3,2,0 
+Community: 3,2,1 
+Community: 2,0,0 
+Community: 2,0,1 
+Community: 1,0,0 
+Community: 1,0,1 
+Done. 
+
+Finding all the measures for branches in the tree. 
+Done. 
+Exiting the code. End time: 2025-04-16 02:28:51.663099 
+Total time taken = 0:00:00.016415 
+ 
