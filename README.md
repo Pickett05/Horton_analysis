@@ -9,7 +9,7 @@ This repository contains the codes required for:
 
 Please cite the following authors if using this repository:
 
->Tandon, S.*, Sonwane, N. D.*, Braun, T., Marwan, N., Kurths, J., and Sujith, R. I. (2025). Universal self-similarity of hierarchical
+>Tandon, S.\*, Sonwane, N. D.\*, Braun, T., Marwan, N., Kurths, J., and Sujith, R. I. (2025). Universal self-similarity of hierarchical
 communities formed through a general self-organizing principle (these authors contributed equally).
 
 ## Function/class files
