@@ -9,7 +9,8 @@ This repository contains the codes required for:
 
 Please cite the following authors if using this repository:
 
->Sonwane, N. D., Tandon, S., Braun, T., Marwan, N., Kurths, J., and Sujith, R. I. (2025). Universality in the self-similar hierarchical organization across multiple real-world systems and a model to explain the underlying mechanism. (put the necessary copyright details I have just put some dummy text)
+>Tandon, S.*, Sonwane, N. D.*, Braun, T., Marwan, N., Kurths, J., and Sujith, R. I. (2025). Universal self-similarity of hierarchical
+communities formed through a general self-organizing principle (these authors contributed equally).
 
 ## Function/class files
 
