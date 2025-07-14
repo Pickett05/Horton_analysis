@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15879192.svg)](https://doi.org/10.5281/zenodo.15879192)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15879191.svg)](https://doi.org/10.5281/zenodo.15879191)
 
 # Repository for Horton analysis
 
